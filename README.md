@@ -1,19 +1,22 @@
-# Machine Learning Projects
+# Retrieval-information-for-System-of-Labor-dataset
+Retrieval-information-by-using-Search-Engines-technique-for-System-of-Labor-dataset The Arabic language is one of the most widely spoken languages al around the globe. A wide variety of natural language processing experts have tried to work on it to understand its linguistic complexity. When we consider text processing and its applications we surely come across question answering systems. In this paper, we organized the data in the System of Labor in the Ministry of Human Resources and Social Development into a free form-based format is available to be used also, we are presenting a question answering system for the system of labor laws in Saudi Arabia dataset, our system works by retrieving the relevant information to a user based search query. We achieved very high rouge scores and the model was tested on several user queries.
 
-A collection of applied machine learning projects covering data cleaning, regression, classification, and tree-based models — implemented in Python using pandas, scikit-learn, matplotlib, and seaborn.
+# Dataset
+We have been worked using the System of Labor dataset available on the website of the Ministry of Human Resources and Social Development in the Kingdom of Saudi Arabia. The dataset contains 245 articles divided into six sections. This type of dataset known as primary data that has been collected from the first-hand experience. Primary data has not been published before and is more reliable, authentic, and objective.
 
-## Projects
+# Porject Folder Structure:
 
-| Notebook | Task | Techniques |
-|---|---|---|
-| [`hotel-booking-data-cleaning.ipynb`](./hotel-booking-data-cleaning.ipynb) | Exploratory data analysis and cleaning on a hotel booking dataset | Data visualization, missing-value handling, feature exploration |
-| [`loan-approval-classification.ipynb`](./loan-approval-classification.ipynb) | Predicting loan approval status | Logistic Regression, Label Encoding, train/test evaluation |
-| [`linear-regression-diabetes-prediction.ipynb`](./linear-regression-diabetes-prediction.ipynb) | Predicting diabetes progression from physiological measurements | Linear Regression on the scikit-learn diabetes dataset |
-| [`house-price-multi-linear-logistic-regression.ipynb`](./house-price-multi-linear-logistic-regression.ipynb) | Modeling house prices from structural and location features | Multiple Linear Regression, Logistic Regression |
-| [`decision-trees-swine-flu-detection.ipynb`](./decision-trees-swine-flu-detection.ipynb) | Classifying flu status from symptom data | Decision Trees, preprocessing |
+- The [code.ipynb](https://github.com/SadeemAlharthi/Arabic_Question-Answering_System_Using_Search_Engine_Techniques/blob/master/%20Code.ipynb) Jupyter notebook that includes all the code.
+- The [dataset](https://github.com/SadeemAlharthi/Arabic_Question-Answering_System_Using_Search_Engine_Techniques/tree/master/Dataset) folder contains the dataset.
 
-## Stack
-Python · pandas · NumPy · scikit-learn · matplotlib · seaborn
+# Citation:
 
-## Author
-Shaima Ali
+If you find this dataset useful for your research, please cite 
+our paper: https://link.springer.com/chapter/10.1007/978-3-030-82562-1_31
+
+
+# Contact
+
+If you have any suggestions or questions, please reach out to sadeem1.alharthi on Gmail
+
+
